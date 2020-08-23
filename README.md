@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Vinícius Alves! 👋
+
+### A little about myself! 😄
+- I live in Fortaleza, Ceará - Brazil.
+- I currently work with web development, specifically in the Back-End with PHP.
+- But I'm also following my studies for Front-End.
+
 
 <!--
 **vinialves34/vinialves34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
