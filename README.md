@@ -1,6 +1,10 @@
 ### Olá, me chamo Vinícius Alves!
 
-<p>Atuo na área de desenvolvimento desde 2018. Comecei desenvolvendo em PHP mas hoje em dia já desenvolvo usando novas stacks além do PHP, como VueJs e ReactJs para Front-End e NodeJs para Back-End.</p>
+<p>Sou desenvolvedor apaixonado por transformar ideias em soluções práticas. Graduado em Análise e Desenvolvimento de Sistemas, atuo com desenvolvimento de software desde 2018.</p>
+
+<p>Especializado em Back-end com NodeJs e PHP, também atuo no Front-end com ReactJs e VueJs. Gosto de ajudar meus colegas de equipe e estou sempre disposto a colaborar em projetos conjuntos.</p>
+
+<p>Comprometido em criar experiências digitais inovadoras e eficientes.</p>
 
 <div align="center">
   <a href="https://github.com/vinialves34">
