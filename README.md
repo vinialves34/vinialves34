@@ -7,13 +7,6 @@
 <p>Comprometido em criar experiências digitais inovadoras e eficientes.</p>
 
 <div align="center">
-  <a href="https://github.com/vinialves34">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinialves34&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinialves34&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-<br>
-
-<div align="center">
   <h3>Contatos<h3>
   <a href="https://www.linkedin.com/in/vinicius-tavares-275688149" target="_blank">
     <img align="center" alt="LinkedIn - Vinícius Alves" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
