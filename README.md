@@ -18,6 +18,13 @@
 <br>
 
 <div align="center">
+  <a href="https://github.com/vinialves34">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinialves34&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinialves34&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+<br>
+
+<!-- <div align="center">
   <h3>Tecnologias</h3>
   <img align="center" title="JavaScript" alt="Icone-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" title="TypeScript" alt="Icone-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
@@ -25,4 +32,4 @@
   <img align="center" title="PHP" alt="Icone-VueJs" height="30" width="40" src="https://www.svgrepo.com/show/452088/php.svg" />
   <img align="center" title="VueJs" alt="Icone-VueJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
   <img align="center" title="Docker" alt="Icone-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-</div>
+</div> -->
