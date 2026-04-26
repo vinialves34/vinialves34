@@ -5,6 +5,13 @@
 <p>Especializado em Back-end com NodeJs e PHP, também atuo no Front-end com VueJs. Gosto de ajudar meus colegas de equipe e estou sempre disposto a colaborar em projetos conjuntos.</p>
 
 <p>Comprometido em criar experiências digitais inovadoras e eficientes.</p>
+<br>
+
+<div align="center">
+  <a href="https://github.com/vinialves34">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinialves34&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinialves34&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 <div align="center">
   <h3>Contatos<h3>
@@ -15,14 +22,6 @@
     <img align="center" alt="Gmail - Vinícius Alves" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-<br>
-
-<div align="center">
-  <a href="https://github.com/vinialves34">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinialves34&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinialves34&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-<br>
 
 <!-- <div align="center">
   <h3>Tecnologias</h3>
