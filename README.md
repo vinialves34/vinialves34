@@ -1,10 +1,12 @@
 ### Olá, me chamo Vinícius Alves!
 
-<p>Sou desenvolvedor apaixonado por transformar ideias em soluções práticas. Graduado em Análise e Desenvolvimento de Sistemas, atuo com desenvolvimento de software desde 2018.</p>
+<p>Sou desenvolvedor de software com mais de 7 anos de experiência em aplicações backend utilizando PHP, Laravel e Node.js.</p>
 
-<p>Especializado em Back-end com NodeJs e PHP, também atuo no Front-end com VueJs. Gosto de ajudar meus colegas de equipe e estou sempre disposto a colaborar em projetos conjuntos.</p>
+<p>Atuo principalmente no desenvolvimento de APIs, integrações, microsserviços, sistemas web e aplicações monolíticas, com foco em arquitetura, performance e boas práticas.</p>
 
-<p>Comprometido em criar experiências digitais inovadoras e eficientes.</p>
+<p>Tenho experiência com Laravel, Symfony, Zend Framework e também desenvolvo projetos utilizando NestJS, Vue.js e TypeScript.</p>
+
+<p>Atualmente busco evoluir cada vez mais como engenheiro de software e ampliar minha atuação em projetos de alta escala e produtos digitais.</p>
 <br>
 
 <div align="center">
