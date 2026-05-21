@@ -9,11 +9,11 @@
 <p>Atualmente busco evoluir cada vez mais como engenheiro de software e ampliar minha atuação em projetos de alta escala e produtos digitais.</p>
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/vinialves34">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinialves34&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinialves34&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+</div> -->
 
 <div align="center">
   <h3>Contatos<h3>
