@@ -1,13 +1,18 @@
 ### Olá, me chamo Vinícius Alves!
 
-<p>Sou desenvolvedor de software com mais de 7 anos de experiência em aplicações backend utilizando PHP, Laravel e Node.js.</p>
+<p>Software Engineer graduado em Análise e Desenvolvimento de Sistemas com mais de 7 anos de experiência transformando ideias em soluções robustas através de Node.js, PHP e arquiteturas escaláveis.</p>
 
-<p>Atuo principalmente no desenvolvimento de APIs, integrações, microsserviços, sistemas web e aplicações monolíticas, com foco em arquitetura, performance e boas práticas.</p>
+<span>Ao longo da minha trajetória, entreguei resultados concretos:</span><br>
+<span>• Evolução de plataformas administrativas e financeiras na WEBJUMP, desenvolvendo novas funcionalidades e otimizando sistemas existentes.</span><br>
+<span>• Implementação de melhorias em Adobe Commerce (Magento 2) e manutenção de microsserviços críticos.</span><br>
+<span>• Desenvolvimento de aplicações Node.js para Natura e Avon, seguindo arquitetura BFF para Brasil e outros países da América Latina.</span><br>
+<span>• Construção de soluções serverless com AWS Lambda e DynamoDB, garantindo alta performance.</span><br>
 
-<p>Tenho experiência com Laravel, Symfony, Zend Framework e também desenvolvo projetos utilizando NestJS, Vue.js e TypeScript.</p>
+<span><b>Stack atual:</b> Node.js, NestJS, PHP, Laravel, Vue.js, TypeScript</span><br>
+<span><b>Cloud:</b> AWS (Lambda, DynamoDB)</span><br>
+<span><b>Arquiteturas:</b> REST APIs, Microsserviços, BFF, Serverless</span><br>
 
-<p>Atualmente busco evoluir cada vez mais como engenheiro de software e ampliar minha atuação em projetos de alta escala e produtos digitais.</p>
-<br>
+<p>Certificado em formações de Node.js e TypeScript, com experiência em empresas como WEBJUMP e Compass UOL.</p>
 
 <!-- <div align="center">
   <a href="https://github.com/vinialves34">
